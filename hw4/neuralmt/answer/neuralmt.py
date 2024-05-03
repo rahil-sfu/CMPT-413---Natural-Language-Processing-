@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 # Python version: 3
 #
-# SFU CMPT413/825 Fall 2019, HW4
-# default solution
-# Simon Fraser University
-# Jetic Gū
+# SFU CMPT413/825 
 #
 #
 import os
