@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1K_NFx7JayguydEQT08QoyNe3IYdMBMYH
 """
 
-# Code adapted from original code by Robert Guthrie
+
 
 import os, sys, optparse, gzip, re, logging
 import string
